@@ -153,3 +153,4 @@ yandex.com, 40427798, RESELLER
 yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
+google.com, pub-2976918426150538, DIRECT, f08c47fec0942fa0
