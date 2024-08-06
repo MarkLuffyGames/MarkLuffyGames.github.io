@@ -262,4 +262,10 @@ pokkt.com, 6246, RESELLER, c45702d9311e25fd
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 mars.media, 1010442, RESELLER
 risecodes.com, 6486c6155b231000010244b0, RESELLER
+connekt.ai, 1732945743, RESELLER
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
+mars.media, 1010442, RESELLER, 8624339f102fb076
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+video.unrulymedia.com, 1058378980, RESELLER
+zmaticoo.com, 5135704, RESELLER
 google.com, pub-2976918426150538, DIRECT, f08c47fec0942fa0
