@@ -131,4 +131,5 @@ appnexus.com, 15629, RESELLER
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
 conversantmedia.com, 100396, RESELLER, 03113cd04947736d
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
-ushareit.com, lcb555b3bc8667a09a, RESELLERgoogle.com, pub-2976918426150538, DIRECT, f08c47fec0942fa0
+ushareit.com, lcb555b3bc8667a09a, RESELLER
+google.com, pub-2976918426150538, DIRECT, f08c47fec0942fa0
